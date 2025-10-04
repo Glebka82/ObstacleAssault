@@ -1,9 +1,15 @@
+# Unreal Engine standard .gitignore
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
 .vscode/
-*.suo
-*.opensdf
-*.sdf
+.vs/
 *.VC.db
+*.sdf
+*.opensdf
+*.suo
+*.log
+*.pdb
+*.ipch
+*.obj
